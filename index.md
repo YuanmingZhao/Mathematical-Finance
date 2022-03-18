@@ -1,3 +1,0 @@
-## Quantitative Finance
-
-Sample code
